@@ -1,0 +1,33 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Lilac & Soft Purple Theme */
+  --primary: #8b5cf6;       /* Vibrant Purple (Tailwind purple-600) */
+  --primary-light: #ddd6fe; /* Soft Lilac (Tailwind purple-200) */
+  --secondary: #faf9ff;     /* Very light lavender tint for background */
+  --accent: #4c1d95;        /* Deep Plum for headings */
+  --text: #334155;          /* Slate for readability */
+}
+
+/* Base Styles */
+body {
+  background-color: var(--secondary);
+  color: var(--text);
+  font-family: var(--font-body), 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+/* Heading Typography */
+h1, h2, h3, h4 {
+  color: var(--accent);
+  font-family: var(--font-heading), 'Playfair Display', serif;
+  font-weight: 700;
+}
+
+/* Utility for the lilac gradient you liked */
+.bg-lilac-gradient {
+  background: linear-gradient(to right, #e9d5ff, #e0e7ff, #e9d5ff);
+}
