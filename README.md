@@ -52,16 +52,10 @@ The assignment involved:
 ## 🌐 Live Website
 
 👉 **Live Demo:**  
-PASTE_YOUR_LIVE_WEBSITE_LINK_HERE
+http://192.168.1.101:3000/
 
 ---
 
-## 🎥 Video Walkthrough
-
-👉 **Loom Video:**  
-PASTE_YOUR_LOOM_VIDEO_LINK_HERE
-
----
 
 ## 📁 Repository Notes
 
