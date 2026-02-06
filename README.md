@@ -46,6 +46,10 @@ The assignment involved:
 
 - **Next.js**
 - **Tailwind CSS**
+- **Java Script**
+- **React.js**
+- **HTML**
+- **CSS**
 
 ---
 
